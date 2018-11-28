@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+header {
+    color: royalblue;
+    padding-bottom: 50px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: royalblue;
+    color: white;
+}
